@@ -1,0 +1,15 @@
+F:\AA\Finance\Finance\Finance\bin\Debug\netstandard2.0\Finance.deps.json
+F:\AA\Finance\Finance\Finance\bin\Debug\netstandard2.0\Finance.dll
+F:\AA\Finance\Finance\Finance\bin\Debug\netstandard2.0\Finance.pdb
+F:\AA\Finance\Finance\Finance\obj\Debug\netstandard2.0\Finance.csproj.AssemblyReference.cache
+F:\AA\Finance\Finance\Finance\obj\Debug\netstandard2.0\Finance.GeneratedMSBuildEditorConfig.editorconfig
+F:\AA\Finance\Finance\Finance\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\AA\Finance\Finance\Finance\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\AA\Finance\Finance\Finance\obj\Debug\netstandard2.0\Finance.AssemblyInfoInputs.cache
+F:\AA\Finance\Finance\Finance\obj\Debug\netstandard2.0\Finance.AssemblyInfo.cs
+F:\AA\Finance\Finance\Finance\obj\Debug\netstandard2.0\Finance.csproj.CoreCompileInputs.cache
+F:\AA\Finance\Finance\Finance\obj\Debug\netstandard2.0\XamlC.stamp
+F:\AA\Finance\Finance\Finance\obj\Debug\netstandard2.0\Finance.dll
+F:\AA\Finance\Finance\Finance\obj\Debug\netstandard2.0\refint\Finance.dll
+F:\AA\Finance\Finance\Finance\obj\Debug\netstandard2.0\Finance.pdb
+F:\AA\Finance\Finance\Finance\obj\Debug\netstandard2.0\ref\Finance.dll

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finance.Android", "Finance\Finance.Android\Finance.Android.csproj", "{66CE34FC-1245-462E-88D0-8652C504FEEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finance", "Finance\Finance\Finance.csproj", "{129FF9FC-8DDB-4042-9E16-AA162964F4DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66CE34FC-1245-462E-88D0-8652C504FEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66CE34FC-1245-462E-88D0-8652C504FEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66CE34FC-1245-462E-88D0-8652C504FEEF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{66CE34FC-1245-462E-88D0-8652C504FEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66CE34FC-1245-462E-88D0-8652C504FEEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66CE34FC-1245-462E-88D0-8652C504FEEF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{129FF9FC-8DDB-4042-9E16-AA162964F4DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129FF9FC-8DDB-4042-9E16-AA162964F4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129FF9FC-8DDB-4042-9E16-AA162964F4DC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{129FF9FC-8DDB-4042-9E16-AA162964F4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129FF9FC-8DDB-4042-9E16-AA162964F4DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{129FF9FC-8DDB-4042-9E16-AA162964F4DC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F92B86C1-84EF-4480-940A-1E3BB66EFF10}
+	EndGlobalSection
+EndGlobal
